@@ -4,7 +4,7 @@ Aoba!
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-GitLab" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Icon-Redis" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Icon-RabbitMQ" width="120" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2699%2FPNG%2F512%2Frabbitmq_logo_icon_170812.png&id=170812&pack_or_individual=pack">
+  <img align="center" alt="Icon-RabbitMQ" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/3840px-RabbitMQ_logo.svg.png">
   <img align="center" alt="Icon-Docker" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Icon-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Icon-DotNetCore" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
